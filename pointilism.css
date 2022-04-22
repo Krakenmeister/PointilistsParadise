@@ -1,0 +1,24 @@
+body {
+	background-color: #C0C0C0;
+}
+
+#settingswrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#canvaswrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#title {
+	font-size: 6vw;
+}
+
+#imageCanvas {
+	zoom: 1;
+}
